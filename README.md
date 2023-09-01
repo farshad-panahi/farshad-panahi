@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/farshad-panahi/farshad-panahi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
