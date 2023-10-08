@@ -52,8 +52,10 @@
 
 ###
 
-<br clear="both">
+<!-- 
 
+<br clear="both">
+-->
 <img align="right" height="400" src="https://i.imgflip.com/4746la.jpg"  />
 
 ###
