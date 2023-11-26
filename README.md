@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">An Iranian 30,<br>who started late,<br>instead,<br>TRYING hard.</h1>
+<h1 align="left">An <mark>Iranian</mark> 30,<br>who started late,<br>instead,<br>TRYING hard.</h1>
 
 ###
 
-==/<p align="left">✨ Creating bugs since  March - 2021<br>🎯 Goals: That's enough Clear <br>🎲 Fun fact: <mark>There is no fact</mark>.</p>==
+<p align="left">✨ Creating bugs since  March - 2021<br>🎯 Goals: That's enough Clear <br>🎲 Fun fact: <mark>There is no fact</mark>.</p>
 
 ###
 
