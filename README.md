@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fedora/#51A2DA" height="40" alt="fedora logo"  />
-  <img src="https://cdn.simpleicons.org/xfce/#2284F2" height="40" alt="xfce logo"  />
+  <img src="https://cdn.simpleicons.org/xfce/#fff" height="40" alt="xfce logo"  />
   
 </div>
 
