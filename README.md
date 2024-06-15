@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">An <mark>Iranian</mark> 31,<br>who started late,<br>instead,<br>TRYING hard.</h1>
+<h1 align="left">An <mark>Iranian</mark> 31
 
 ###
 
@@ -31,8 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fedora/#51A2DA" height="40" alt="fedora logo"  />
-  <img src="https://cdn.simpleicons.org/xfce/#2284F2" height="40" alt="xfce logo"  />
-  
 </div>
 
 ###
