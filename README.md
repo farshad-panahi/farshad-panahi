@@ -1,10 +1,5 @@
 <br clear="both">
-###
-
 <p align="left">✨ since March - 2021<br>🎯 Goals: <br>🎲 The only fact:<mark>There is no fact</mark>.</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
