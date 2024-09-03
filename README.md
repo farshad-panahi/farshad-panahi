@@ -1,5 +1,12 @@
 <br clear="both">
 <p align="left">✨ since March - 2021<br>🎲 The only fact: <mark>The only fact is that there is no fact</mark>.</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
