@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=git,docker,py,fastapi,django,postgres,redis,rabbitmq" />
   </a>
 </p>
-###
+
 
 <br clear="both">
 
